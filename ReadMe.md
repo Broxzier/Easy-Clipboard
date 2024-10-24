@@ -4,6 +4,14 @@ Easy Clipboard is a PowerShell script that allows you to quickly add predefined 
 
 ![Easy Clipboard](https://github.com/Broxzier/easy-clipboard/blob/26a520459394cdc227adc24f33a544d433486880/doc/Easy%20Clipboard.png)
 
+---
+
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-GitHub-lightgrey?style=for-the-badge&logo=github)](https://github.com/sponsors/Broxzier)
+
+If you find this project helpful, consider supporting my work. Your support helps me maintain and improve this project, and create more useful tools like this!
+
+---
+
 ## Features
 - Add predefined or custom text snippets to your clipboard.
 - Easy to adjust script to set your own predefined snipets.
